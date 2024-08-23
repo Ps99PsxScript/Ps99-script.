@@ -1,0 +1,3 @@
+if game.PlaceId == 8737899170 then
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Ps99PsxScript/Ps99-Script/main/Ps99/main?'))()
